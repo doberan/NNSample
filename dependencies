@@ -1,0 +1,6 @@
+numpy==1.14.5
+cython==0.28.4
+gensim==3.5.0
+natto-py==0.8.0
+word2vec==0.9.4
+twitter==1.18.0
